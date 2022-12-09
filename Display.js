@@ -11,6 +11,9 @@ class Display {
             dividir: '%',
             multiplicar: 'x',
             restar: '-', 
+            potencia:'^',
+            raiz:'√',
+      
         }
     }
     borrar() {

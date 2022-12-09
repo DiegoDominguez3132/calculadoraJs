@@ -7,7 +7,10 @@
 
 body{
     margin: 0;
-    background-color: coral;
+background-image: url(/matematicas-numeros-espacio-copia-libreta-vacia_23-2148416138.webp);
+background-repeat:no-repeat ;
+background-attachment:fixed ;
+background-size:100% ;
 }
 
 
@@ -19,7 +22,10 @@ body{
         
 
 }
-
+.porcentaje{
+    height: 30px;
+    width: 60px; 
+}
 
 .calculadora{
     display: grid;
@@ -55,7 +61,7 @@ button:focus{
     height: 30px;
     width: 60px;
 }
-.porcentaje{
+.potencia{
     height: 30px;
     width: 60px;
 }
